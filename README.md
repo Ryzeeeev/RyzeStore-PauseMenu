@@ -13,7 +13,7 @@ Discord (Support): [Discord.gg/wfSBKmMfEZ](https://discord.com/invite/wfSBKmMfEZ
 |-------------------------------------|----------------------------|
 | Code is accessible       | No (FiveM Escrow)                |
 | Subscription-based      | No                 |
-| Lines (approximately)  | ~800  |
+| Lines (approximately)  | 800  |
 | Requirements                | ESX      |
 | Support                           | Yes|
 
