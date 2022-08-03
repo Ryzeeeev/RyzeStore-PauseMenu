@@ -9,3 +9,11 @@ Preview: https://streamable.com/7sze0l
 Webstore: https://ryze-shop.tebex.io/Resources
 
 Discord (Support): [Discord.gg/wfSBKmMfEZ](https://discord.com/invite/wfSBKmMfEZ)
+
+|                                         |                                |
+|-------------------------------------|----------------------------|
+| Code is accessible       | Yes/No                 |
+| Subscription-based      | Yes/No                 |
+| Lines (approximately)  | Number of lines  |
+| Requirements                | Requirements      |
+| Support                           | Yes/No                 |
