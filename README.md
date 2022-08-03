@@ -9,10 +9,20 @@ Webstore: https://ryze-shop.tebex.io/Resources
 
 Discord (Support): [Discord.gg/wfSBKmMfEZ](https://discord.com/invite/wfSBKmMfEZ)
 
+# Information
+
+- Create a news !
+- Simple configuration (Config.lua)
+- A support in discord 
+- Options: Settings, Maps, Disconnect
+- Traduction (FR/EN)
+- Fluid animation
+- Resmon 0.1
+- Language used: (HTML/CSS/JAVASCRIPT)
 
 # Information Scripting
 
-|                                         |                                |
+|     Information                                    |                 Yes/No               |
 |-------------------------------------|----------------------------|
 | Code is accessible       | No (FiveM Escrow)                |
 | Subscription-based      | No                 |
