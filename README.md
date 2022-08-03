@@ -12,8 +12,8 @@ Discord (Support): [Discord.gg/wfSBKmMfEZ](https://discord.com/invite/wfSBKmMfEZ
 
 |                                         |                                |
 |-------------------------------------|----------------------------|
-| Code is accessible       | Yes/No                 |
-| Subscription-based      | Yes/No                 |
-| Lines (approximately)  | Number of lines  |
-| Requirements                | Requirements      |
-| Support                           | Yes/No                 |
+| Code is accessible       | No                 |
+| Subscription-based      | No                 |
+| Lines (approximately)  | ~800  |
+| Requirements                | ESX      |
+| Support                           | Yes|
