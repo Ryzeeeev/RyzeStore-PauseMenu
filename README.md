@@ -19,6 +19,10 @@ Discord (Support): [Discord.gg/wfSBKmMfEZ](https://discord.com/invite/wfSBKmMfEZ
 - Fluid animation
 - Resmon 0.1
 - Language used: (HTML/CSS/JAVASCRIPT)
+- Price: 10€
+- Check version 
+- Check language and option (If you have any error)
+- 
 
 # Information Scripting
 
