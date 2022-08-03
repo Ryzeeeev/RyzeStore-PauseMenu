@@ -22,7 +22,7 @@ Discord (Support): [Discord.gg/wfSBKmMfEZ](https://discord.com/invite/wfSBKmMfEZ
 - Price: 10€
 - Check version 
 - Check language and option (If you have any error)
-- 
+
 
 # Information Scripting
 
